@@ -1,16 +1,15 @@
 <div align="center">
 
-  # Hi, I'm <your-name>
+  # Hi, I'm Frian M.
   
-  ### Frontend Specialist & UI/UX Craftsman
+  ### Developer & Digital Media Creator
   
-  Building polished, performant, and delightful web experiences.
+  Building polished software solutions, edge-computed apps, and visual media.
 
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourusername)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://class-guard.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
@@ -19,11 +18,11 @@
 
 ### About Me
 
-- **Currently working on:** Intuitive, responsive web applications & interactive UI components.
-- **Currently exploring:** Advanced WebGL / Three.js animations, Design Systems, and Next.js App Router.
-- **Focus:** Bridging the gap between design and engineering with pixel-perfect precision.
-- **Expertise:** `TypeScript`, `React`, `Vue`, `Tailwind CSS`, `Micro-interactions`, and `Web Performance`.
-- **Philosophy:** Performance and craft go hand-in-hand — clean code meets fluid interfaces.
+- **Currently working on:** **CAWIS (ClassGuard)** – A browser-based focus management system using edge-computed text classification.
+- **Media Brand:** Running **FRN Media** – Crafting minimalist automotive videography and digital media.
+- **Hardware & Tech:** Custom **FPV drone** building, mobile hardware repairs, and system configurations.
+- **Primary Stack:** `Flutter`, `Dart`, `Java`, `Luau`, `HTML/CSS`, and `JavaScript`.
+- **Philosophy:** Performance and craft go hand-in-hand — clean code meets fluid media.
 
 ---
 
@@ -31,23 +30,17 @@
 
 #### Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,java" alt="Languages" />
 </p>
 
-#### Frameworks & Libraries
+#### Frameworks, Engines & Media
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux" alt="Frameworks & State" />
-</p>
-
-#### UI, Animation & Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,threejs" alt="Design & Animation" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=blue" alt="Framer Motion" height="48" style="vertical-align: top; margin-left: 6px;" />
+  <img src="https://skillicons.dev/icons?i=roblox,linux" alt="Frameworks & Systems" />
 </p>
 
 #### Tooling & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,git,github,vscode,npm,pnpm" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm" alt="Tooling" />
 </p>
 
 ---
@@ -55,16 +48,16 @@
 ### GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=friann&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friann&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=friann&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="95%" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Crafted for clean interfaces and seamless user experiences.</sub>
+  <sub>Crafted for clean software and seamless visual experiences.</sub>
 </div>
