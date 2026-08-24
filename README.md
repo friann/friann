@@ -20,6 +20,7 @@
 - **Media Brand:** Running **FRN Media** – Crafting minimalist automotive videography and digital media.
 - **Hardware & Tech:**  modding and mobile hardware repairs and system configurations.
 - **Primary Stack:** `PHP`, `Node.js`, `PostgreSQL`, `SQLite`, `Luau`, `HTML/CSS`, and `JavaScript`.
+- **AI & Workflow:** Leveraging `Antigravity`, `OpenCode`, and `Claude` for agentic coding and rapid development.
 - **Philosophy:** Performance and craft go hand-in-hand — clean code meets fluid media.
 
 ---
@@ -34,6 +35,13 @@
 #### Frameworks, Engines & Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=roblox,linux" alt="Frameworks & Systems" />
+</p>
+
+#### AI & Intelligent Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" height="28" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" height="28" />
+  <img src="https://img.shields.io/badge/OpenCode-10B981?style=flat-square&logo=codeforces&logoColor=white" alt="OpenCode" height="28" />
 </p>
 
 #### Tooling & Workflow
