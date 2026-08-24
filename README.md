@@ -18,10 +18,10 @@
 
 ### About Me
 
-- **Currently working on:** **CAWIS (ClassGuard)** – A browser-based focus management system using edge-computed text classification.
+- **Currently working on:** **ClassGuard** – A browser-based focus management system using edge-computed text classification.
 - **Media Brand:** Running **FRN Media** – Crafting minimalist automotive videography and digital media.
-- **Hardware & Tech:** Custom **FPV drone** building, mobile hardware repairs, and system configurations.
-- **Primary Stack:** `Flutter`, `Dart`, `Java`, `Luau`, `HTML/CSS`, and `JavaScript`.
+- **Hardware & Tech:**  modding and mobile hardware repairs and system configurations.
+- **Primary Stack:** `PHP`, `Node.js`, `PostgreSQL`, `SQLite`, `Luau`, `HTML/CSS`, and `JavaScript`.
 - **Philosophy:** Performance and craft go hand-in-hand — clean code meets fluid media.
 
 ---
@@ -30,10 +30,10 @@
 
 #### Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,postgres,sqlite" alt="Languages & Databases" />
 </p>
 
-#### Frameworks, Engines & Media
+#### Frameworks, Engines & Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=roblox,linux" alt="Frameworks & Systems" />
 </p>
